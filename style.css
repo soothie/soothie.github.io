@@ -50,4 +50,9 @@ h2 {
 
 .button {
     margin: 80px 5px 5px 10px;
+    transition: 0.2s;
+}
+
+.btn:hover {
+	padding-left: 13px;
 }
