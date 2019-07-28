@@ -56,7 +56,7 @@ h2 {
 .btn {
 	padding-left: 13px;
 	transition: 0.3s ease;
-	-webkit-transition: 0.3s ease;
+	-webkit-transition: 0.3s linear;
 }
 
 .btn:hover {
