@@ -64,22 +64,12 @@ h2 {
     margin-left: 500px;
 }
 
-.dc:hover {
-    border: 1px solid white;
+.btn {
+    border: 1px solid transparent;
     padding-top: 40px;
 }
 
-.yt:hover {
-    border: 1px solid white;
-    padding-top: 40px;
-}
-
-.pat:hover {
-    border: 1px solid white;
-    padding-top: 40px;
-}
-
-.sc:hover {
+.btn:hover {
     border: 1px solid white;
     padding-top: 40px;
 }
