@@ -25,10 +25,6 @@ body {
     font-family: monospace;
 }
 
-.row {
-    max-width: 1200px;
-    margin: auto
-}
 
 .main-nav li a:hover {
     border: 1px solide mediumturquoise;
@@ -36,7 +32,7 @@ body {
 
 .main {
     float: left;
-    width: 100%;
+    width: 90%;
     margin: 73px 5px 5px 113px;
 }
 
