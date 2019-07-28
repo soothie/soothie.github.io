@@ -45,7 +45,7 @@ h1 {
 .description {
     position: absolute;
     width: 500px;
-    margin-left: 480px;
+    margin-left: 80px;
     margin-top: -100px;
 }
 
@@ -61,9 +61,9 @@ h2 {
 
 .button {
     margin-top: 150px;
-    margin-left: 480px;
+    margin-left: 80px;
 }
 
 .btn {
-    margin-top: 20px;
+    margin-top: 50px;
 }
