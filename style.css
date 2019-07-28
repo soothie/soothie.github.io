@@ -72,4 +72,5 @@ h2 {
 .btn:hover {
     border: 1px solid white;
     padding-top: 40px;
+    margin-bottom: 20px;
 }
