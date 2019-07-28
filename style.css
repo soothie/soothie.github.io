@@ -22,13 +22,11 @@ header {
 */
 
 body {	
+	width: 100%;
     font-family: monospace;
 }
 
 
-.main-nav li a:hover {
-    border: 1px solide mediumturquoise;
-}
 
 .main {
     float: left;
