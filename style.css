@@ -59,8 +59,11 @@ h2 {
     font-weight: 100;
 }
 
-.button
-{
+.button {
     margin-top: 150px;
     margin-left: 480px;
+}
+
+.btn {
+    margin-top: 20px;
 }
