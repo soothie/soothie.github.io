@@ -59,18 +59,4 @@ h2 {
     font-weight: 100;
 }
 
-.button {
-    margin-top: 150px;
-    margin-left: 500px;
-}
 
-.btn {
-    border: 1px solid transparent;
-    padding-top: 40px;
-}
-
-.btn:hover {
-    border: 1px solid white;
-    padding-top: 40px;
-    margin-bottom: 20px;
-}
